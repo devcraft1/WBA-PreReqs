@@ -1,3 +1,1 @@
 ## Rust Tutorial
-
-## Solana Typescript
